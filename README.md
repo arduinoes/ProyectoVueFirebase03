@@ -1,21 +1,11 @@
-# Atención acuérdate de intalar los Módulos
+# AUTH autentificación
 
-## Instala los modulos, vete a terminal, nuevo terminal y escribe:
+## Atención acuérdate de intalar los Módulos
+
+Instala los modulos, vete a terminal, nuevo terminal y escribe:
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-# AUTH autentificación
 
 ## TEMPLATE Navbar
 
